@@ -1,0 +1,17 @@
+.service{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.myService{
+    font-weight: bold;
+    
+}
+.serviceCard{
+    width: 300px;
+    background-color: rgb(255, 215, 0);
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.serviceCard:hover{
+    transform: scale(1.03);
+}
