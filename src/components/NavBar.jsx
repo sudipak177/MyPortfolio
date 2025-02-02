@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import img1 from "../images/image 1 (1).png";
 import img2 from "../images/imagefb.webp";
-import img3 from "../images/instagram_icon.png";
+import img3 from "../images/instagramicon.png";
 import img4 from "../images/image5.png";
 import { NavLink } from "react-router-dom";
 function NavBar() {
