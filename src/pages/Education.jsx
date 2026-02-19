@@ -12,9 +12,9 @@ I am currently pursuing a BSc. IT at ISMT Butwal, specializing in web developmen
 </p>
 <ul className='mt-5'>
                 <li style={{ '--accent-color': '#41516C' }}>
-                <div className="date">2022 - Present</div>
+                <div className="date">2022 - 2025</div>
                     <div className="title">BSc IT - ISMT Butwal</div>
-                    <div className="descr">Currently pursuing a Bachelor of Science in Information Technology (BSc IT) at ISMT Butwal. The program focuses on web development, programming languages, and network security, preparing me with the necessary skills for a career in IT.</div>
+                    <div className="descr">Completed Bachelor of Science in Information Technology (BSc IT). The program focused on web development, programming languages, and network security, equipping me with the technical and practical skills required for a career in IT. Successfully graduated in 2025.</div>
                 </li>
                 <li style={{ '--accent-color': '#FBCA3E' }}>
                     <div className="date">2021 - 2022</div>
