@@ -161,6 +161,7 @@ function NavBar() {
             © Copyright 2026 All rights reserved. Designed and Developed by
             Sudip Rayamajhi.
           </p>
+          
         </footer>
       </Navbar>
     </>
