@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/Home.css';
 import { Container } from 'react-bootstrap';
-import CV from '../images/CV.jpeg';
+import CV from '../images/cv_sudip-rayamajhi.pdf';
 function Home() {
 
 

@@ -158,7 +158,7 @@ function NavBar() {
             style={{ fontSize: "16px", textAlign: "center" }}
             className="text-center"
           >
-            © Copyright 2025 All rights reserved. Designed and Developed by
+            © Copyright 2026 All rights reserved. Designed and Developed by
             Sudip Rayamajhi.
           </p>
         </footer>
