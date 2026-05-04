@@ -8,7 +8,7 @@ function Education() {
     <Container>
         <h1 className="education">EDUCATION AND CERTIFICATION</h1>
 <p style={{ textAlign: "center", fontWeight: "bold" }} className="myEducation">
-I am a graduate of BSc (Hons) in IT from ISMT Butwal, specializing in web development. With additional certifications and practical experience, I am well-equipped to build innovative, scalable, and user-friendly web solutions.
+I am a graduate of BSc (Hons) in Computer System Engineering from ISMT Butwal, specializing in web development. With additional certifications and practical experience, I am well-equipped to build innovative, scalable, and user-friendly web solutions.
 </p>
 <ul className='mt-5'>
                 <li style={{ '--accent-color': '#41516C' }}>
